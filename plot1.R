@@ -15,4 +15,7 @@ hist(febData$Global_active_power, col="red", xlab="Global Active Power (kilowatt
 dev.copy(png, file="plot1.png")
 dev.off()
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> fa465fef658a1b35709b56d6f4292f925fe65f84
